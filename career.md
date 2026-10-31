@@ -68,8 +68,8 @@ Cụ thể tới mức tháng sau kiểm được.
 | Bước | Tôi đã làm gì |
 |---|---|
 | **Hỏi** | Nhờ AI hỗ trợ phân tích các yêu cầu kỹ năng từ ba bản mô tả công việc (JD) tuyển dụng thực tế.|
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hoài** |Kiểm tra xem các tiêu chí kỹ năng mà AI tổng hợp có thực sự khớp với yêu cầu trong văn bản tuyển dụng hay không.  |
+| **Học** | Nhận ra tầm quan trọng của việc trau dồi cả kỹ năng chuyên môn (hard skills) lẫn thái độ làm việc (soft skills/attitude). |
+| **Hành** | Lập kế hoạch tự học bổ sung các công cụ và ngôn ngữ lập trình còn thiếu trong bảng năng lực cá nhân |
 
 Công cụ đã dùng: …
